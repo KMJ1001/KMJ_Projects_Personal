@@ -90,7 +90,7 @@ esc키를 누르거나 창 닫기를 마우스로 클릭하면 프로그램이 �
 본 프로젝트의 만족도를 10점 만점으로 매기자면, 7 정도로 평가할 수 있다.<br>
 「Avoid_it_2019」보다 많이 발전한 것은 분명 맞지만, 이보다 더 발전할 수 있을 것이라고 판단하기 때문이다.<br>
 이는 =increase code-readibility, =add functions 사항에 모두 해당되며<br> 
-특히 code-readibility적인 면으로는 PEP 8 – Style Guide for Python Code (https://peps.python.org/pep-0008/)를<br> 
+특히 code-readibility적인 면으로는 PEP 8 – Style Guide for Python Code ( https://peps.python.org/pep-0008/ )를<br> 
 2024년 이후에 확인해버렸다는 점이 아쉬웠다. (지금 수정하면 Avoid_it_2024가 되어버리니 말이다;;)<br> 
 그러다보니 언젠가 ver4를 개발할지도 모르겠으며, 그 제목이 진짜로 「Avoid_it_2024」가 될 수도 있다.<br> 
 그래도 프로젝트를 통해 Python을 다시 익힌다는 본래의 의도는 충분히 도달하여 앞으로의 Python 개발에 도움이 된 프로젝트였다.
